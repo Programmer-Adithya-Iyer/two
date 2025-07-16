@@ -6,6 +6,6 @@ import logo from "./logo.svg";
 import menu from "./menu.svg";
 import search from "./search.svg";
 
-import heroBackground from "./heroBackground.svg";
+import heroBackground from "./heroBackground.jpg";
 
 export { avatar, globe, logo, menu, search, heroBackground };

@@ -1,0 +1,6 @@
+.main-wrapper {
+	background-color: black;
+	color: white;
+	min-height: 100vh;
+	padding: 20px 80px 100px;
+}
