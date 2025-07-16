@@ -3,4 +3,8 @@
 	color: white;
 	min-height: 100vh;
 	padding: 20px 80px 100px;
+	display: flex;
+	flex-direction: column;
+	/* justify-content: center; */
+	/* align-items: center; */
 }
