@@ -29,4 +29,5 @@ main span {
 	font-size: 16px;
 	font-weight: 400;
 	color: #671296;
+	cursor: pointer;
 }
