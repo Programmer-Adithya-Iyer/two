@@ -1,0 +1,32 @@
+main {
+	min-height: 90vh;
+	margin-top: 25px;
+	border-radius: 16px;
+
+	background-image: url("../../assets/heroBackground.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+main h1 {
+	font-size: 48px;
+	font-weight: 500;
+	margin-bottom: 25px;
+}
+
+main span {
+	background-color: white;
+	border-radius: 30px;
+	padding: 16px 24px;
+	margin-bottom: 80px;
+
+	font-size: 16px;
+	font-weight: 400;
+	color: #671296;
+}
